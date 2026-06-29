@@ -1,0 +1,10 @@
+Final_AB_Test_Project/
+├── data
+├── notebooks
+├── README.txt
+├── Final_Report.pdf
+├── Final_Report_Conclusion.txt
+├── PROJECT_STRUCTURE.txt
+├── requirements.txt
+├── LICENSE
+└── .gitignore
